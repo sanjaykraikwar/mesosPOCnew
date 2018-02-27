@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type = "text/xsl" href = "employee.xsl"?><CATALOG>
+    <CATALOG-NAME>C1</CATALOG-NAME>
+    <CD>
+    <CD-NAME>Empire Burlesque</CD-NAME>
+    <ARTIST>Bob Dylan</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1985</YEAR>
+    </CD>
+    <CD>
+    <CD-NAME>Hide your heart</CD-NAME>
+    <ARTIST>Bonnie Tyler</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1988</YEAR>
+    </CD>
+ </CATALOG>
